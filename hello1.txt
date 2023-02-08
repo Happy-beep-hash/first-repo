@@ -7,3 +7,4 @@ brach in git
 brach are the pointer of the commit and let say we have a file one and we commit it into the  git and after that we get a hash for that particular file and this hash point toward the our file and 
 now lets say we now make new changes in our file and we make this commit further and now at that time we get new hash on our master and by and we see that new hash which crated pointing toward the changes that we make 
 now intreating point is that this new hash also pointing toward the older hash which further on pointing toward our file 
+;;frehf
