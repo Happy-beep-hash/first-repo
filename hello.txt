@@ -3,3 +3,6 @@ by the way am a multi billionaire trader
 am very much success full and confidant 
 youngest billionaire i am 
 very calm and respected person i am 
+
+when we have more then one file in same folder and we want to add all those file at once for that we need to add one command like this >>
+git add ./  >>>by doing this all our file in that particular folder are selected and all are ready to commit 
